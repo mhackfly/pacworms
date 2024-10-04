@@ -6,6 +6,6 @@
 
 ![root_window_start](Root_Window_Start.png)  
 
-![pygame_window](Pygame_Window.png)  
+![pygame_window](Pygame_window.png)  
 
 ![toplevel_window_editor](Toplevel_Window_Editor.png)  
